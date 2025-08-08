@@ -97,3 +97,9 @@ O Growise foi desenvolvido com base em uma abordagem **qualitativa e exploratór
 - Maior produtividade e menor taxa de falhas no cultivo
 - Inclusão de públicos com baixo conhecimento técnico
 - Potencial de replicação em larga escala para políticas públicas
+
+## Integrantes
+
+- Edward Mevis da Silva
+- Erick Pereira Bastos
+- Victor Rafael Ferreira de Roma
